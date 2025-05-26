@@ -1,4 +1,4 @@
-# Supply-Chain-Analysis
+# Ola-Data-Analysis
 ## Overview
 This project presents a comprehensive Power BI dashboard analyzing one month of ride booking data for Ola in Bengaluru. The dashboard provides detailed insights into ride volume trends, booking outcomes,
 customer and driver behavior, and operational metrics such as vehicle types, payment methods, ratings, and cancellation reasons.
